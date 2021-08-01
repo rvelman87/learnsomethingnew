@@ -1,6 +1,6 @@
 While using command line editor and to execute a python script, I follow the below steps
 
-- create python file , name.py, when u do this way, python keywords and allignment are taken care by editor like vim.
+- create python file , name.py, when u do this way, python keywords and indendation are taken care by editor like vim.
 - type the program
 - chmod 777 <name>.py
 - ./<name>.py
