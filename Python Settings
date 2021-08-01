@@ -6,5 +6,5 @@ While using command line editor and to execute a python script, I follow the bel
 - ./<name>.py, execute the program, in the same path where file is found
 
 Why do we use #!/usr/bin/python
- - instruct interpret where the program to run this file can be present
+ - instruct interpreter which program to run this file.
  - alternatively, run instead of using "#!/usr/bin/python", execute program with python3 <name>.py
