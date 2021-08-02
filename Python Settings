@@ -8,3 +8,9 @@ While using command line editor and to execute a python script, I follow the bel
 Why do we use #!/usr/bin/python
  - instruct interpreter which program to run this file.
  - alternatively, run instead of using "#!/usr/bin/python", execute program with python3 <name>.py
+
+
+
+Default Arguments:
+https://web.archive.org/web/20200221224620/http://effbot.org/zone/default-values.htm
+https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument
