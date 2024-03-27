@@ -4,7 +4,7 @@ def ismountain(array): # Time o(n), space no extra mem, so o(1)
     while (i<len(array) and array[i] > array[i-1]) :
         print("i =", i)
         i +=1
-    if (i==len(array)):
+    if (i==1 or i==len(array)): #make sure, list has at least 3 elements
         return False
     while (i<len(array) and array[i] < array[i-1]):
         print("d i =", i)
